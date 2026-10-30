@@ -1,0 +1,4 @@
+Why is the sky blue?
+Explain quantum computing.
+Write a Python function to sort a list.
+What are the advantages of Rust?
